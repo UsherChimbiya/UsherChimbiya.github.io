@@ -113,7 +113,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #000000;
+    color: #ffffff;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -182,21 +182,21 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
-    color: lightslategrey;
+    color: slategrey;
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
-    color: slategrey;
+    color: black;
 }
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
-    color: darkgrey;
+    color: slategrey;
 }
 .home .home-content .text-3 span{
-    color: slategrey;
+    color: black;
     font-weight: 500;
 }
 .home .home-content a{
