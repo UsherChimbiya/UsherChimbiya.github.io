@@ -1,2 +1,2 @@
-# Borischibanga.github.io
-This is just a portifolio website with the CV 
+# UsherChimbiya.github.io
+Here is m portifolio website with the CV and some certificates
